@@ -16,6 +16,6 @@ My name is Clement, I'm a fullstack developper, with a preference for backend an
 <a href="https://app.daily.dev/lecramc"><img src="https://api.daily.dev/devcards/694d74dc453643fb91fb15da74544f03.png?r=2tw" width="250" alt="Clement's Dev Card"/></a>
 <p align="center">
   
-### I work more with Gitlab
+### My Gitlab
 <a href="https://gitlab.com/lecramc"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 </p>
