@@ -12,9 +12,6 @@ My name is Clement, I'm a fullstack developper, with a preference for backend an
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### ⌛ Update myself
-<a href="https://app.daily.dev/lecramc"><img src="https://api.daily.dev/devcards/694d74dc453643fb91fb15da74544f03.png?r=2tw" width="250" alt="Clement's Dev Card"/></a>
-<p align="center">
   
 <a href="https://gitlab.com/lecramc"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 </p>
