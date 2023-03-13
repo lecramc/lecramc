@@ -1,6 +1,6 @@
 ## Hi there 👋🏼🏼
 
-My name is Clement, I'm a fullstack developper, with a preference for backend and devops.
+My name is Clement, I'm a fullstack developper.
 
 ### 🛠 &nbsp;Tech Stack
   
