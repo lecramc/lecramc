@@ -5,7 +5,7 @@ My name is Clement, I'm a fullstack developper.
 ### 🛠 &nbsp;Tech Stack
   
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=A8B9CC)&nbsp;
+![Typescript](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=A8B9CC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=A8B9CC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
