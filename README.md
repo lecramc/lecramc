@@ -1,6 +1,6 @@
 ## Hi there 👋🏼🏼
 
-My name is Clement, I'm a fullstack developper.
+My name is Clement, I'm developer.
 
 ### 🛠 &nbsp;Tech Stack
   
